@@ -75,14 +75,22 @@ img {
 
     .row {
         width: 100%;
+        padding: 5%;
+        margin-top: 20px;
     }
 
     #lezioni .row > .left, #lezioni .row > .right {
         width: 100%;
+        margin-top: 40px;
     }
 
     #steps .row > .left, #steps .row > .central, #steps .row > .right {
         width: 100%;
+        margin-top: 40px;
+    }
+
+    h3, hr, h1 {
+        margin-top: 20px;
     }
 
 }
